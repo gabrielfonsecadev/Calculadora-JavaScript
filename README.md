@@ -1,1 +1,0 @@
-# Calculadora criada utilizando JavaScript
