@@ -1,2 +1,1 @@
-# Calculadora-JavaScript
-# Calculadora-JavaScript
+# Calculadora criada utilizando JavaScript
